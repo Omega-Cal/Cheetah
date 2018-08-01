@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+body {
+    background-image: url("https://www.publicdomainpictures.net/pictures/40000/velka/background-safari.jpg")
+}
+.Cheetah {
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+p {
+    color: red;
+
+}
